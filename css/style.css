@@ -79,3 +79,7 @@ caption {
 .modal-content {
     height: 80%;
 }
+
+.navbar-nav { 
+    flex-direction: row;
+}
